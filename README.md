@@ -6,6 +6,7 @@
     <td>
       <img src="assets/badges/c.svg" width="35" align="absmiddle">
       <img src="assets/badges/cpp.svg" width="35" align="absmiddle">
+      <img src="assets/badges/asm.svg" width="35" align="absmiddle">
       <img src="assets/badges/python.svg" width="35" align="absmiddle">
     </td>
   </tr>
