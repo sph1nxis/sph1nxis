@@ -13,7 +13,7 @@
     <td><b>Environment:</b></td>
     <td>
       <img src="assets/badges/archlinux.svg" width="35" align="absmiddle">
-      <img src="assets/badges/neovim.svg" width="35" align="absmiddle">
+      <img src="assets/badges/neovide.svg" width="35" align="absmiddle">
       <img src="assets/badges/cmake.svg" width="35" align="absmiddle">
     </td>
   </tr>
