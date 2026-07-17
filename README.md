@@ -11,7 +11,7 @@
     </td>
   </tr>
   <tr>
-    <td><b>Environment:</b></td>
+    <td><b>Tools:</b></td>
     <td>
       <img src="assets/badges/archlinux.svg" width="35" align="absmiddle">
       <img src="assets/badges/neovide.svg" width="35" align="absmiddle">
