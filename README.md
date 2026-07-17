@@ -25,4 +25,5 @@
   <li>Operating systems</li>
   <li>Networking</li>
   <li>Low-level software</li>
+  <li>Reverse engineering</li>
 </ul>
