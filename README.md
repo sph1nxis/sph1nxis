@@ -12,13 +12,6 @@
     </td>
   </tr>
   <tr>
-    <td><b>Platforms:</b></td>
-    <td>
-      <img src="assets/icons/linux.svg" width="35" align="absmiddle">
-      <img src="assets/icons/windows.svg" width="35" align="absmiddle">
-    </td>
-  </tr>
-  <tr>
     <td><b>Tooling:</b></td>
     <td>
       <img src="assets/icons/bash.svg" width="35" align="absmiddle">
