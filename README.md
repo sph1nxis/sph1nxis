@@ -8,12 +8,12 @@
       <img src="assets/icons/c.svg" width="35" align="absmiddle">
       <img src="assets/icons/cpp.svg" width="35" align="absmiddle">
       <img src="assets/icons/asm.svg" width="35" align="absmiddle">
-      <img src="assets/icons/python.svg" width="35" align="absmiddle">
     </td>
   </tr>
   <tr>
     <td><b>Tooling:</b></td>
     <td>
+      <img src="assets/icons/python.svg" width="35" align="absmiddle">
       <img src="assets/icons/bash.svg" width="35" align="absmiddle">
       <img src="assets/icons/cmake.svg" width="35" align="absmiddle">
       <img src="assets/icons/git.svg" width="35" align="absmiddle">
