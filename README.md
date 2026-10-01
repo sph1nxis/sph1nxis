@@ -27,5 +27,6 @@
   <li>Networking</li>
   <li>Low-level software</li>
   <li>Information security</li>
+  <li>Game engine internals</li>
 </ul>
 
